@@ -1,10 +1,9 @@
 public class Main {
     public static void main(String[] args) {
 
-        Consulta consultaIntercambio = new Consulta();
+        Conversor conversor = new Conversor();
 
-        ValorConversion valor = consultaIntercambio.obtenerValorConversion("USD", "EUR");
+        conversor.menu();
 
-        System.out.println(valor);
     }
 }
