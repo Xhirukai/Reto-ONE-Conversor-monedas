@@ -22,10 +22,10 @@ public class Conversor {
             System.out.println("""
                                 1) Dolar Estadounidense (USD) a Peso Colombiano (COP)
                                 2) Peso Colombiano (COP) a Dolar Estadounidense (USD)
-                                3) Dolar Estadounidense (USD) a Dolar Canadiense (CAD)
-                                4) Dolar Canadiense (CAD) a Dolar Estadounidense (USD)
-                                5) Dolar Estadounidense (USD) a Libra Esterlina (GBP)
-                                6) Libra Esterlina (GBP) a Dolar Estadounidense (USD)
+                                3) Dolar Estadounidense (USD) a Peso Chileno (CLP)
+                                4) Peso Chileno (CLP) a Dolar Estadounidense (USD)
+                                5) Dolar Estadounidense (USD) a Peso Argentino (ARS)
+                                6) Peso Argentino (ARS) a Dolar Estadounidense (USD)
                                 7) SALIR
                                 ----------------------""");
 
@@ -52,21 +52,21 @@ public class Conversor {
 
                 case "3":
                     codigoMonedaOrigen = "USD";
-                    codigoMonedaDestino = "CAD";
+                    codigoMonedaDestino = "CLP";
                     break;
 
                 case "4":
-                    codigoMonedaOrigen = "CAD";
+                    codigoMonedaOrigen = "CLP";
                     codigoMonedaDestino = "USD";
                     break;
 
                 case "5":
                     codigoMonedaOrigen = "USD";
-                    codigoMonedaDestino = "GBP";
+                    codigoMonedaDestino = "ARS";
                     break;
 
                 case "6":
-                    codigoMonedaOrigen = "GBP";
+                    codigoMonedaOrigen = "ARS";
                     codigoMonedaDestino = "USD";
                     break;
 

@@ -43,10 +43,10 @@ Porfavor seleccione la conversion que desea realizar: "
 
 1) Dolar Estadounidense (USD) a Peso Colombiano (COP)
 2) Peso Colombiano (COP) a Dolar Estadounidense (USD)
-3) Dolar Estadounidense (USD) a Dolar Canadiense (CAD)
-4) Dolar Canadiense (CAD) a Dolar Estadounidense (USD)
-5) Dolar Estadounidense (USD) a Libra Esterlina (GBP)
-6) Libra Esterlina (GBP) a Dolar Estadounidense (USD)
+3) Dolar Estadounidense (USD) a Peso Chileno (CLP)
+4) Peso Chileno (CLP) a Dolar Estadounidense (USD)
+5) Dolar Estadounidense (USD) a Peso Argentino (ARS)
+6) Peso Argentino (ARS) a Dolar Estadounidense (USD)
 7) SALIR
 Elija una opción válida:
 ----------------------
